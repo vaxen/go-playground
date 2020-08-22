@@ -1,3 +1,3 @@
-module github.com/vaxen/go-playground.git
+module github.com/vaxen/go-playground
 
 go 1.15
