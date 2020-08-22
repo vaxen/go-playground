@@ -4,6 +4,6 @@ import (
 	"fmt"
 )
 
-func printer(something string) {
+func print(something string) {
 	fmt.Println(something)
 }
